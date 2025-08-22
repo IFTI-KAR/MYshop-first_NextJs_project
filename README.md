@@ -1,6 +1,3 @@
-
-
-````markdown
 # 🛍️ My Next App - Simple Shop (Next.js 15)
 
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
@@ -76,7 +73,7 @@ Users can:
    ```bash
    git clone https://github.com/your-username/my-next-app.git
    cd my-next-app
-````
+
 
 2. **Install Dependencies**
 
